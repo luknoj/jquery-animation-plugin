@@ -1,0 +1,1 @@
+Simple plugin which animates every subelement of selected html element.
